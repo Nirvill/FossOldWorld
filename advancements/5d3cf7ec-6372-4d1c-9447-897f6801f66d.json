@@ -1,0 +1,70 @@
+{
+  "craemon:crafting": {
+    "criteria": {
+      "tick": "2025-05-14 16:39:16 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2025-05-14 16:39:16 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2025-05-14 16:39:16 +0200"
+    },
+    "done": true
+  },
+  "craemon:main": {
+    "criteria": {
+      "tick": "2025-05-14 16:39:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-14 16:39:16 +0200"
+    },
+    "done": true
+  },
+  "craemon:craftable_elytra": {
+    "criteria": {
+      "tick": "2025-05-14 16:39:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2025-05-14 16:41:05 +0200",
+      "minecraft:dark_forest": "2025-05-21 23:16:12 +0200",
+      "minecraft:forest": "2025-05-14 16:43:51 +0200",
+      "minecraft:lush_caves": "2025-05-21 23:16:14 +0200",
+      "minecraft:dripstone_caves": "2025-05-14 16:44:20 +0200",
+      "minecraft:frozen_peaks": "2025-05-14 16:42:25 +0200",
+      "minecraft:deep_dark": "2025-05-21 23:16:18 +0200",
+      "minecraft:cherry_grove": "2025-05-14 16:39:17 +0200",
+      "minecraft:grove": "2025-05-21 23:16:17 +0200",
+      "minecraft:meadow": "2025-05-14 16:42:49 +0200",
+      "minecraft:birch_forest": "2025-05-21 23:15:56 +0200",
+      "minecraft:plains": "2025-05-14 16:42:31 +0200",
+      "minecraft:jagged_peaks": "2025-05-21 23:17:38 +0200",
+      "minecraft:pale_garden": "2025-05-21 23:15:57 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-14 17:19:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-05-14 17:19:27 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 4325
+}
